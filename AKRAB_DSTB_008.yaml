@@ -1,9 +1,9 @@
 proxies:
-- name: danuWs07
+- name: danuWs08
   type: trojan
   server: 104.20.74.141
   port: 443
-  password: e5f1074e-0271-4f89-b592-2a443e889b4b
+  password: c3744259-5613-48c3-a57a-41047f96daf1
   udp: true
   sni: sg-ctn.sshpremium.my.id
   skip-cert-verify: true
